@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "id": "aplus",
+      "displayName": "CompTIA A+ (220-1101/1102)",
+      "resourceName": "APlus",
+      "version": 1
+    },
+    {
+      "id": "netplus",
+      "displayName": "CompTIA Network+ (N10-009)",
+      "resourceName": "NetworkPlus",
+      "version": 1
+    },
+    {
+      "id": "ports",
+      "displayName": "Network Ports",
+      "resourceName": "NetworkPorts",
+      "version": 1
+    }
+  ]
+}
