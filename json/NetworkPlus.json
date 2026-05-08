@@ -183,7 +183,7 @@
     },
     {
       "itemkey": "DoH",
-      "itemvalue": "DNS over Hypertext Transfer Protocol Secure",
+      "itemvalue": "DNS over HTTPS",
       "itemlink": "https://en.wikipedia.org/wiki/DNS_over_HTTPS",
       "strict": true
     },
