@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "acronyms": [
     {
       "itemkey": "A",
@@ -837,7 +837,7 @@
     },
     {
       "itemkey": "SSE",
-      "itemvalue": "Secure Service Edge",
+      "itemvalue": "Security Service Edge",
       "itemlink": "https://en.wikipedia.org/wiki/Secure_access_service_edge",
       "strict": true
     },
